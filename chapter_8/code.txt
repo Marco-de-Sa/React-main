@@ -1,0 +1,7 @@
+apiKey: "AIzaSyDUdC5-Pf3YcYh16q_i5rFVX03ivWkJnbg",
+  authDomain: "chapter9-5e28f.firebaseapp.com",
+  projectId: "chapter9-5e28f",
+  storageBucket: "chapter9-5e28f.appspot.com",
+  messagingSenderId: "246284544618",
+  appId: "1:246284544618:web:8326bb00ece68128203813",
+  measurementId: "G-MQ7Z5SCSCE"
